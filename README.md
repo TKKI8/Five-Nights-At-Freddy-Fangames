@@ -7,3 +7,5 @@ For the rm.exe file. Press Right arrow To go right. Left arrow to go left. space
 For the ennard.exe file. Use your Mouse!
 
 Also for the anda.exe file. Use your Mouse!
+
+For the An.exe File. Press Right arrow To go right. Left arrow to go left. spacebar to the Middle!
